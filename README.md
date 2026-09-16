@@ -66,7 +66,7 @@ const jaydeep = {
 ### Database & Caching
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,postgres" />
 </p>
 
 **MySQL • MongoDB • Redis**
